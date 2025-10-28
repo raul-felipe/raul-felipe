@@ -42,7 +42,7 @@ The app also lets you listen to previews of each anime’s opening and ending th
 **Demo:**  
 ![animerank demo](https://github.com/user-attachments/assets/d6aaaba1-09e8-448c-b996-8a745f560a4a)  
 **Links:**  
-![animerank demo](https://github.com/user-attachments/assets/e2046268-d3b4-41cb-ab50-9a487d5fb947)
+[Source Code](https://github.com/raul-felipe/anime_rank)
 
 ---
 
