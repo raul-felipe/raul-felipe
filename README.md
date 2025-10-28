@@ -1,4 +1,4 @@
-![animerank demo](https://github.com/user-attachments/assets/d6aaaba1-09e8-448c-b996-8a745f560a4a)# Raul Felipe（ラウル）
+# Raul Felipe（ラウル）
 
 Welcome to my portfolio.  
 I’m a software engineer based in Japan, focused mainly on mobile application development.  
@@ -40,10 +40,7 @@ The mascot can also chat with you in real time using the ChatGPT API.
 The app also lets you listen to previews of each anime’s opening and ending themes.  
 **Tech Stack:** Flutter, MyAnimeList API, Spotify API  
 **Demo:**  
-<video width="320" controls>
-  <source src="https://user-images.githubusercontent.com/17601661/235067689-bf322e52-8ba2-4b39-8ecd-fbfaced738f1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![animerank demo](https://github.com/user-attachments/assets/d6aaaba1-09e8-448c-b996-8a745f560a4a)  
 **Links:**  
 ![animerank demo](https://github.com/user-attachments/assets/e2046268-d3b4-41cb-ab50-9a487d5fb947)
 
