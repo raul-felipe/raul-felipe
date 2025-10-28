@@ -14,7 +14,11 @@ The model reacts dynamically to screen touches and device charging states.
 The app is available on the Google Play Store.  
 **Tech Stack:** Kotlin, Google Filamment  
 **Demo:**  
-![GLB Wallpaper Demo](https://media.giphy.com/media/MszKOdv74nAXVeHWVz/giphy.gif)  
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/b8fc7f94-b94c-4ba3-bba4-feccad61ef73" style="width: 30%; border-radius: 10px;">
+  <img src="https://github.com/user-attachments/assets/cb670168-0ce4-4c60-be3a-825278b6b7aa" style="width: 30%; border-radius: 10px;">
+  <img src="https://github.com/user-attachments/assets/aefddb41-9881-4421-b494-4c6113bf6fcb" style="width: 30%; border-radius: 10px;">
+</div>
 **Links:**  
 [Google Play Store](https://play.google.com/store/apps/details?id=raulalmeida.glbwallpaper)
 
@@ -25,7 +29,7 @@ The app is available on the Google Play Store.
 The mascot can also chat with you in real time using the ChatGPT API.  
 **Tech Stack:** Kotlin, OpenAI APIs, Weather API  
 **Demo:**  
-![Floating Mascot Demo](https://github.com/raul-felipe/floating_mascot/assets/17601661/1688a9fc-1a16-4eb8-8784-e990c4861c95) 
+![Floating Mascot Demo](https://github.com/raul-felipe/floating_mascot/assets/17601661/1688a9fc-1a16-4eb8-8784-e990c4861c95)  
 **Links:**  
 [Source Code](https://github.com/raul-felipe/floating_mascot)
 
@@ -51,7 +55,7 @@ The app provided news updates, messages, and recordings of past sermons. It was 
 I discontinued support after moving to Japan, but it remains one of my most meaningful real-world projects.  
 **Tech Stack:** Flutter, Firebase  
 **Demo:**  
-<img src="https://github.com/raul-felipe/menorah/blob/b0bc547647f1552eea95874f659cde662fc4b065/Menorah%20Demo.gif" width="300">
+<img src="https://github.com/raul-felipe/menorah/blob/b0bc547647f1552eea95874f659cde662fc4b065/Menorah%20Demo.gif" width="300">  
 **Links:**  
 [Source Code](https://github.com/raul-felipe/menorah)
 
