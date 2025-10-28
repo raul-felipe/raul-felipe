@@ -18,7 +18,7 @@ The app is available on the Google Play Store.
   <img src="https://github.com/user-attachments/assets/b8fc7f94-b94c-4ba3-bba4-feccad61ef73" border-radius: 10px;">
   <img src="https://github.com/user-attachments/assets/cb670168-0ce4-4c60-be3a-825278b6b7aa" border-radius: 10px;">
   <img src="https://github.com/user-attachments/assets/aefddb41-9881-4421-b494-4c6113bf6fcb" border-radius: 10px;">
-</div>
+</div>  
 **Links:**  
 [Google Play Store](https://play.google.com/store/apps/details?id=raulalmeida.glbwallpaper)
 
