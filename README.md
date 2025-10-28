@@ -29,7 +29,7 @@ The app is available on the Google Play Store.
 The mascot can also chat with you in real time using the ChatGPT API.  
 **Tech Stack:** Kotlin, OpenAI APIs, Weather API  
 **Demo:**  
-![Floating Mascot Demo](https://github.com/raul-felipe/floating_mascot/assets/17601661/1688a9fc-1a16-4eb8-8784-e990c4861c95)  
+![FloatingMascot](https://github.com/user-attachments/assets/e339118d-c73c-4336-bed7-c12ae5fb5ffa)  
 **Links:**  
 [Source Code](https://github.com/raul-felipe/floating_mascot)
 
