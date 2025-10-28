@@ -36,7 +36,10 @@ The mascot can also chat with you in real time using the ChatGPT API.
 The app also lets you listen to previews of each anime’s opening and ending themes.  
 **Tech Stack:** Flutter, MyAnimeList API, Spotify API  
 **Demo:**  
-https://user-images.githubusercontent.com/17601661/235067689-bf322e52-8ba2-4b39-8ecd-fbfaced738f1.mp4
+<video width="320" controls>
+  <source src="https://user-images.githubusercontent.com/17601661/235067689-bf322e52-8ba2-4b39-8ecd-fbfaced738f1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 **Links:**  
 [Source Code](https://github.com/raul-felipe/anime_rank)
 
@@ -48,7 +51,7 @@ The app provided news updates, messages, and recordings of past sermons. It was 
 I discontinued support after moving to Japan, but it remains one of my most meaningful real-world projects.  
 **Tech Stack:** Flutter, Firebase  
 **Demo:**  
-![Batista Menorah App Demo](https://github.com/raul-felipe/menorah/blob/b0bc547647f1552eea95874f659cde662fc4b065/Menorah%20Demo.gif)  
+<img src="https://github.com/raul-felipe/menorah/blob/b0bc547647f1552eea95874f659cde662fc4b065/Menorah%20Demo.gif" width="300">
 **Links:**  
 [Source Code](https://github.com/raul-felipe/menorah)
 
