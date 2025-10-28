@@ -52,7 +52,7 @@ The app provided news updates, messages, and recordings of past sermons. It was 
 I discontinued support after moving to Japan, but it remains one of my most meaningful real-world projects.  
 **Tech Stack:** Flutter, Firebase  
 **Demo:**  
-<img src="https://github.com/raul-felipe/menorah/blob/b0bc547647f1552eea95874f659cde662fc4b065/Menorah%20Demo.gif" width="300">  
+![menorah](https://github.com/user-attachments/assets/da229369-197c-47bf-a5d9-c33ddef802a4)  
 **Links:**  
 [Source Code](https://github.com/raul-felipe/menorah)
 
