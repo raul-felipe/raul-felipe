@@ -8,7 +8,7 @@ Below you’ll find some of my favorite personal projects — developed as hobbi
 
 ## Projects
 
-### 1. [GLB Wallpaper]
+### 1. GLB Wallpaper
 **Description:** A 3D interactive live wallpaper app that renders a GLB model in real time.  
 The model reacts dynamically to screen touches and device charging states.  
 The app is available on the Google Play Store.  
